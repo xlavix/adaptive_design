@@ -1,16 +1,25 @@
-# floating_action_button
+# Aplikasi Adaptive Design
 
-A new Flutter project.
+Aplikasi ini berisi tampilan UI Adaptive yang compact beserta Floating Action Button
 
-## Getting Started
+## Nama :
+Muhamad Farhan - 4522210057
 
-This project is a starting point for a Flutter application.
+## Screenshots Halaman
 
-A few resources to get you started if this is your first Flutter project:
+<img src="screenshots/home.png" width="300">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Penjelasan Tiap Halaman
+- **Halaman Utama:** Halaman ini berisi Bottom App Bar yang compact dan juga menampilkan Floating Action Button
+
+## Cara menjalankan aplikasi di Android Studio
+```bash
+flutter pub get
+```
+
+Jalankan aplikasi:
+
+```bash
+flutter run
+```
